@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-### Live url [https://pradeepbarik.github.io/eastvantage/] https://pradeepbarik.github.io/eastvantage
+### Live url https://pradeepbarik.github.io/eastvantage
 ## Available Scripts
 
 In the project directory, you can run:
